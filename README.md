@@ -1,6 +1,6 @@
 # Amazon Clone
 
-***It is a fully functional E-Commerical Amazon clone including user register, user login, user authentication, shop cart management, order management, and payment using STRIPE!***
+***A fully functional E-Commerical Amazon clone including user register, user login, user authentication, shop cart management, order management, and payment using STRIPE!***
 
 ![alt text](https://github.com/AbhiramiTS/amazon/blob/main/assets/amazon1.png)
 
