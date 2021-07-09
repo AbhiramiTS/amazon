@@ -1,3 +1,4 @@
+
 # Installation Steps
 
 
@@ -30,3 +31,4 @@ Run commands
 
 
 Tailwind, NextJS, NextAuth(for authorization)
+
