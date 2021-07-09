@@ -59,4 +59,8 @@ export const config = {
         bodyParser: false,
         externalResolver: true,
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0a1e8cf12956e86f897791b39ed61ba95083a2b3
