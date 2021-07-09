@@ -2,9 +2,11 @@
 
 ***It is a fully functional E-Commerical Amazon clone including user register, user login, user authentication, shop cart management, order management, and payment using STRIPE, etc.!***
 
-
+<pre>
 ![alt text](https://github.com/AbhiramiTS/amazon/blob/main/assets/amazon1.png)
+
 ![alt text](https://github.com/AbhiramiTS/amazon/blob/main/assets/amazon2.png)
+
 ![alt text](https://github.com/AbhiramiTS/amazon/blob/main/assets/amazon3.png)
 
 ## Checkout Screen
@@ -12,9 +14,11 @@
 
 ## Stripe Payment
 ![alt text](https://github.com/AbhiramiTS/amazon/blob/main/assets/amazon5.png)
-![alt text](https://github.com/AbhiramiTS/amazon/blob/main/assets/amazon6.png)
-![alt text](https://github.com/AbhiramiTS/amazon/blob/main/assets/amazon7.png)
 
+![alt text](https://github.com/AbhiramiTS/amazon/blob/main/assets/amazon6.png)
+
+![alt text](https://github.com/AbhiramiTS/amazon/blob/main/assets/amazon7.png)
+</pre>
 
 ## Quick start
 
